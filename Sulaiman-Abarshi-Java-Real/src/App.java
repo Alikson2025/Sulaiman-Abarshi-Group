@@ -3,7 +3,7 @@ public class App {
         String name = "Sulaiman Abarshi";
         String email = "sulaimanabarshi5@gmail.com";
         String phone = "09049452727";
-        String area_of_interest = "Sulaiman Abarshi";
+        String area_of_interest = "Genomics";
 
         System.out.println("Name"  + name);
         System.out.println("Email:" + email);
