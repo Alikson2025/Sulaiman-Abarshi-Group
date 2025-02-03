@@ -6,5 +6,13 @@ Bioinformatics is an interdisciplinary field that combines biology, computer sci
 The field has revolutionized biological sciences by making it possible to store, retrieve, and analyze complex datasets efficiently. Key applications include drug discovery, disease diagnosis, evolutionary studies, and agricultural advancements. As technology continues to evolve, bioinformatics remains at the forefront of scientific innovation, bridging the gap between biology and digital data analysis to solve complex biological problems.
 # **About the Group**
 Sulaiman-Abarshi-Group consists of 400-level students from the Department of Human Anatomy at Sa’adu Zungur University, Bauchi. We are dedicated to studying and understanding bioinformatics in its entirety, including its objectives, key applications, commonly used computational tools and techniques, and its relationship with other related fields.
+# **The Contributor**
+The contributors include:
++Sulaiman Abarshi
++Abdulkadir Ya'u
++Alhaji Hassan Hashimu
++Adamu Usman Mai
++Hassan Muhammad Sale
++Balkisu Ibrahim Sanda
 
 
