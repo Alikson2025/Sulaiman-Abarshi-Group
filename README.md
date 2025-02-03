@@ -12,7 +12,7 @@ The contributors include:
 + Abdulkadir Ya'u
 + Alhaji Hassan Hashimu
 + Adamu Usman Mai
-+ Hassan Muhammad Sale
++ Hassana Muhammad Sale
 + Balkisu Ibrahim Sanda
 # **Course Lecturer**
 #### **Dr. Umar Ahmad, ph.D**
