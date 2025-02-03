@@ -8,11 +8,11 @@ The field has revolutionized biological sciences by making it possible to store,
 Sulaiman-Abarshi-Group consists of 400-level students from the Department of Human Anatomy at Sa’adu Zungur University, Bauchi. We are dedicated to studying and understanding bioinformatics in its entirety, including its objectives, key applications, commonly used computational tools and techniques, and its relationship with other related fields.
 # **The Contributor**
 The contributors include:
-+Sulaiman Abarshi
-+Abdulkadir Ya'u
-+Alhaji Hassan Hashimu
-+Adamu Usman Mai
-+Hassan Muhammad Sale
-+Balkisu Ibrahim Sanda
++ Sulaiman Abarshi
++ Abdulkadir Ya'u
++ Alhaji Hassan Hashimu
++ Adamu Usman Mai
++ Hassan Muhammad Sale
++ Balkisu Ibrahim Sanda
 
 
