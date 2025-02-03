@@ -2,7 +2,7 @@ def display_personal_info():
     name = "Hassana Muhammad Sale"
     email = "muhammadsalehhassana@gmail.com"
     phone_number = "+2348138251308"
-    area_of_interest = "Software Development"
+    area_of_interest = "Metagenomics"
 
     print("Name:", name)
     print("Email:", email)
