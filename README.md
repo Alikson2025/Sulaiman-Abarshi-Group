@@ -14,5 +14,7 @@ The contributors include:
 + Adamu Usman Mai
 + Hassan Muhammad Sale
 + Balkisu Ibrahim Sanda
+# **Course Lecturer
+### **Dr. Umar Ahmad, ph.D
 
 
